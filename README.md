@@ -6,8 +6,8 @@ Este projeto faz parte do mini curso da Driven Education sobre testes unitários
 
 Antes de executar os testes unitários, verifique se você possui os seguintes requisitos instalados em sua máquina de desenvolvimento:
 
-- Node.js (versão X.X.X)
-- NPM (versão X.X.X)
+- Node.js
+- NPM
 
 ## Configuração
 
